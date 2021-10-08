@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gipsyjaeger, but call me Ethan
+- 👋 Hi, I’m Ethan
 - 👀 I’m interested in building up my skills in development and starting work on some projects, both in and outside of uni!
 - 🌱 I’m currently learning C#, Java and front-end.
 
